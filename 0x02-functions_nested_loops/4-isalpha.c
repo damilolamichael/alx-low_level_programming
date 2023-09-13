@@ -2,7 +2,7 @@
 /**
  * _isalpha - This function checks character
  * @c: character to be checked
- * Return: 1 for all character 
+ * Return: 1 for all character
  */
 
 int _isalpha(int c)
